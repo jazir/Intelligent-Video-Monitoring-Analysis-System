@@ -1,5 +1,5 @@
 """
- _summary_: Detect objects from the camera feed and publish the inference meta-data to AWS IoT Core using MQTT protocol.
+ _summary_: Detect objects from the camera feed using Jetson Nano and publish the inference meta-data to AWS IoT Core using MQTT protocol.
 Pre-trained model: SSD-Mobilenet-V2
  
 """
